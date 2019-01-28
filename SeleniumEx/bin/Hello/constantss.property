@@ -1,0 +1,14 @@
+url=http://127.0.0.1:8080/htmldb/f?p=4550:11:2205463926793294090::NO:::
+excelpath=C:\\Users\\vshadmin\\Desktop\\xlsx.xlsx
+username=sys
+password=Newuser123
+sheetname=Sheet1
+#Login Object Properties
+e_username=p_t01:name
+e_password=input[name='p_t02']:css
+e_un=P11_USERNAME:id
+e_p=P11_PASSWORD:id
+e_user=input[type='text']:csstype
+e_pass=input[type='password']:csstype
+e_us=//*[@id="P11_USERNAME"]:xpath
+e_pa=//*[@id="P11_PASSWORD"]:xpath
